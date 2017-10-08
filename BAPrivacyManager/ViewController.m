@@ -31,7 +31,7 @@ static NSString * const kCellID = @"BAFoundationViewControllerCell";
 - (void)setupUI
 {
     self.view.backgroundColor = BAKit_Color_White_pod;
-    self.title = @"BAPrivacyManager.h";
+    self.title = @"BAPrivacyManager";
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
